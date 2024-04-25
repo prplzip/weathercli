@@ -8,6 +8,7 @@
 
 * Node.js version 17 or higher (https://nodejs.org/en/download/)
 * A free OpenWeatherMap API Key. [https://home.openweathermap.org/users/sign_up]
+* You also need Git if you don't have it already. (https://git-scm.com/downloads)
 
 **Installation:**
 1. Clone this repository:

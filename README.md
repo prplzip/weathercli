@@ -1,7 +1,8 @@
 # 🌦️ Weather CLI v1.0
-[![advice wanted!](https://img.shields.io/badge/advice%20wanted!-E59EF9?style=flat&link=https://prpls.zip)](https://prpls.zip)
 
 ## A very simple weather command-line tool built with [Node.js](https://nodejs.org/en/) using [@clack/prompts](https://github.com/natemoo-re/clack), [axios](https://github.com/axios/axios), [dotenv](https://github.com/motdotla/dotenv), and the [OpenWeatherMap API](https://openweathermap.org/). 
+
+[![advice wanted!](https://img.shields.io/badge/advice%20wanted!-E59EF9?style=flat&link=https://prpls.zip)](https://prpls.zip)
 
 
 ![alt text](https://media.discordapp.net/attachments/1220896730531233862/1233127391602151444/Screenshot_2024-04-25_at_2.47.47_PM.png?ex=662bf6e0&is=662aa560&hm=e61784e9c96b925aacd707114d65fe8c0140d63f4bd70de68580014291fbf649&=&format=webp&quality=lossless&width=1256&height=936)

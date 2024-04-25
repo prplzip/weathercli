@@ -6,7 +6,7 @@
 
 **Prerequisites:**
 
-* Node.js version 17 or higher 
+* Node.js version 17 or higher (https://nodejs.org/en/download/)
 * A free OpenWeatherMap API Key. [https://home.openweathermap.org/users/sign_up]
 
 **Installation:**

@@ -47,9 +47,9 @@
 
 **Usage**
 
-1. Run the weather CLI tool:
+1. Run Weather CLI with:
    ```
-   node weathercli.js
+   node .
    ```
 
 **You're all set!**

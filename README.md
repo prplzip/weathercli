@@ -32,7 +32,7 @@
    ```
 
 5. Edit the environment file:
-   * You can use either nano or vi: (if you aren't familiar with these tools you can substitute for any gui text editor (notepad, kate etc.), or if you'd like, you could do this whole process within a code editor like VSC if that's easier, but the way explained is terminal only.)
+   * You can use either nano or vi: (if you aren't familiar with these tools you can open the file in any gui text editor (notepad, kate etc.), or if you'd like, you could also open the project in a code editor like Visual Studio Code, but the way explained is terminal only.)
      ```
      nano example.env 
      # OR
@@ -43,7 +43,7 @@
 
 6. Rename the environment file:
    ```
-   mv example.env .env 
+   mv example.env .env
    ```
 
 **Usage**

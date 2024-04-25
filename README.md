@@ -12,7 +12,7 @@
 **Installation:**
 1. Clone this repository:
    ```
-   git clone https://github.com/prplzips/weather-cli.git
+   git clone https://github.com/prplzips/weathercli.git
    ```
 
 2. Change into the project directory:

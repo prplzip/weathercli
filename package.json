@@ -1,0 +1,21 @@
+{
+  "name": "weathercli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weathercli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "weathercli": "./weathercli.js"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@clack/prompts": "^0.7.0",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  }
+}

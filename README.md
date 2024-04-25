@@ -18,7 +18,7 @@
 
 2. Change into the project directory:
    ```
-   cd weather-cli
+   cd weathercli
    ```
 
 3. Install dependencies:

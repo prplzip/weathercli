@@ -1,6 +1,6 @@
 #🌦️ Weather CLI v1.0
 
-## A simple yet handy weather command-line tool built with Node.js using clacks.js prompts, axios, dotenv, and the OpenWeatherMap API.
+## A very simple weather command-line tool built with Node.js using clacks.js prompts, axios, dotenv, and the OpenWeatherMap API.
 
 **Getting Started**
 

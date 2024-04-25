@@ -32,7 +32,7 @@
    ```
 
 5. Edit the environment file:
-   * You can use either nano or vi: (if you aren't familiar with these tools you can substitute for any gui text editor, or if you choose you could do this whole process in a code editor like VSC if that's easier, however the way explained is terminal focused only.)
+   * You can use either nano or vi: (if you aren't familiar with these tools you can substitute for any gui text editor (notepad, kate etc.), or if you'd like, you could do this whole process within a code editor like VSC if that's easier, but the way explained is terminal only.)
      ```
      nano example.env 
      # OR
